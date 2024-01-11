@@ -18,7 +18,7 @@ This simple web application allows users to calculate their age based on the pro
 The app calculates the age based on the provided D.O.B and displays the result.
 
 ### 2. Dark Mode
-
+<img width="1307" alt="Screenshot 2024-01-11 at 6 23 54 PM" src="https://github.com/rahat2134/CodeAlpha_AgeCalculator/assets/136263179/76d4759c-7128-475e-b90f-a3fad23333d7">
 Switch between light and dark modes by clicking the "Toggle Dark Mode" button. This feature enhances user experience in different lighting conditions.
 
 ### 3. Feedback Submission
