@@ -1,6 +1,5 @@
 # Age Finder App
-<img width="1345" alt="Screenshot 2024-01-11 at 6 19 53 PM" src="https://github.com/rahat2134/CodeAlpha_AgeCalculator/assets/136263179/d1d28ee0-a5c0-4dfd-bf0a-b82796191ce8">
-
+<img width="1239" alt="Screenshot 2024-01-11 at 10 58 16 PM" src="https://github.com/rahat2134/CodeAlpha_AgeCalculator/assets/136263179/ec89b42f-b5b6-4786-b256-2663b2f13613">
 This simple web application allows users to calculate their age based on the provided date of birth (D.O.B). Additionally, it features a dark mode switch and a feedback submission option.
 
 ## How to Use
@@ -18,7 +17,7 @@ This simple web application allows users to calculate their age based on the pro
 The app calculates the age based on the provided D.O.B and displays the result.
 
 ### 2. Dark Mode
-<img width="1307" alt="Screenshot 2024-01-11 at 6 23 54 PM" src="https://github.com/rahat2134/CodeAlpha_AgeCalculator/assets/136263179/76d4759c-7128-475e-b90f-a3fad23333d7">
+<img width="1303" alt="Screenshot 2024-01-11 at 10 59 45 PM" src="https://github.com/rahat2134/CodeAlpha_AgeCalculator/assets/136263179/e1cabd4d-9f5a-4d13-99de-aab9b43e8142">
 Switch between light and dark modes by clicking the "Toggle Dark Mode" button. This feature enhances user experience in different lighting conditions.
 
 ### 3. Feedback Submission
