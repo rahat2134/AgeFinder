@@ -1,0 +1,60 @@
+body {
+    background-color: #85c1e9; /* Light Blue */
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.box {
+    background-color: #f0f8ff; /* Alice Blue */
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 300px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3498db; /* Dodger Blue */
+}
+
+label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+input {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #bdc3c7; /* Silver */
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #3498db; /* Dodger Blue */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9; /* Belize Hole */
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+}
