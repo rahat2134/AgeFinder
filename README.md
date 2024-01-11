@@ -1,4 +1,5 @@
 # Age Finder App
+<img width="1345" alt="Screenshot 2024-01-11 at 6 19 53 PM" src="https://github.com/rahat2134/CodeAlpha_AgeCalculator/assets/136263179/d1d28ee0-a5c0-4dfd-bf0a-b82796191ce8">
 
 This simple web application allows users to calculate their age based on the provided date of birth (D.O.B). Additionally, it features a dark mode switch and a feedback submission option.
 
